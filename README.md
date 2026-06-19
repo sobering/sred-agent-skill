@@ -1,4 +1,4 @@
-# SR&ED Documentation Skill
+# SR&ED Agent Skill
 
 A [Claude](https://claude.ai) skill that helps Canadian software teams produce **accurate,
 defensible documentation** for an **SR&ED tax credit claim** — the technical write-ups, the
